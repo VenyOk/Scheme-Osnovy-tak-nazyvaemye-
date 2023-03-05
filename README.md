@@ -1,2 +1,2 @@
-# Scheme-Osnovy
+# Scheme-Osnovy-tak-nazyvaemye
 Основы информатики
